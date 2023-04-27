@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "21232f297a57a5a743894a0e4a801fc3",
+    "loginToken": "76b4349b1398a3d25e44b427ab0fc565",
+    "logs": [
+      {
+        "time": "2023-04-27T16:58:44.185Z",
+        "type": "ERROR",
+        "message": "Build Failed - Unable to spawn Java - Error: spawn java ENOENT"
+      },
+      {
+        "time": "2023-04-27T16:58:44.189Z",
+        "type": "ERROR",
+        "message": "Build Failed - Java Not Installed"
+      },
+      {
+        "time": "2023-04-27T17:18:35.715Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
